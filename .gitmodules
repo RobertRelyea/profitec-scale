@@ -1,3 +1,6 @@
 [submodule "extern/pico-scale"]
 	path = extern/pico-scale
 	url = https://github.com/endail/pico-scale
+[submodule "extern/displaylib"]
+	path = extern/displaylib
+	url = git@github.com:gavinlyonsrepo/displaylib_1bit_PICO.git
