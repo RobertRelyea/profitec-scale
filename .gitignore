@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# CMake build directories
+/build/
+/build_pico1/
+/build_pico2/
+
+# Local OpenOCD configs
+/rp2350.cfg
+
